@@ -8,7 +8,16 @@ env/
 .env
 .env.*
 betclic_odds.json
+output.json
+output_rows.json
+output_rows_*.json
 *.log
 .DS_Store
 .idea/
 .vscode/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
