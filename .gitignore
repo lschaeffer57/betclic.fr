@@ -15,9 +15,3 @@ output_rows_*.json
 .DS_Store
 .idea/
 .vscode/
-.pytest_cache/
-.coverage
-htmlcov/
-*.egg-info/
-dist/
-build/
